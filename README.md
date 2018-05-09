@@ -4,7 +4,7 @@ Goal: Finding the Shortest travelling time period.
 
 Problem Description: https://www.geektrust.in/coding-problem
 
-problem 1: lengaburu traffic
+problem 1: Lengaburu traffic
 
 Goal: to go from Silk Dorb to Hallitharam in the shortest time possible.
 
@@ -36,7 +36,7 @@ hour, it can only go at 10 megamiles/hour if that is the traffic speed for that 
 
 
 
-Prpblem 2:
+problem 2: Mission impossible
 
 King Shan now would like to visit Hallitharam and RK Puram on the same day. Write code to determine which orbits
 & vehicle he should take to visit both destinations in the quickest possible time.
