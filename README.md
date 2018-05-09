@@ -33,3 +33,24 @@ Windy - no change to number of craters. Car and bike can be used in this weather
 
 Note: A vehicle cannot travel faster than the traffic speed for an orbit. So even though a car’s max speed is 20 megamiles/
 hour, it can only go at 10 megamiles/hour if that is the traffic speed for that orbit
+
+
+
+Prpblem 2:
+
+King Shan now would like to visit Hallitharam and RK Puram on the same day. Write code to determine which orbits
+& vehicle he should take to visit both destinations in the quickest possible time.
+
+Orbit options:
+
+Orbit 1 - 18 mega miles & 20 craters to cross
+
+Orbit 2 - 20 mega miles & 10 craters to cross
+
+Orbit 3 - 30 mega miles & 15 craters to cross
+
+Orbit 4 - 15 mega miles & 18 craters to cross
+
+Note: You can choose only 1 vehicle for the entire trip. You cannot change vehicle after reaching the first destination.
+
+
